@@ -19,7 +19,7 @@ and also [Wolfran Alpha](https://www.wolframalpha.com/tour/)
 5. To contribute we use [Markdown](https://guides.github.com/features/mastering-markdown/) and [PlantUML](https://plantuml.com/)
 and [this is a site to train yourself on plantuml](https://www.planttext.com/) with some style and conventions.
 
-## Building a KG steps - thinking swift
+## Building a KG steps - thinking shift
 
 Hereinafter to switch to search things not strings paradigm:
 

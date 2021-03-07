@@ -24,3 +24,9 @@
 
 
 ## Output type 
+
+* json 
+
+* json (with schema)
+
+* json-ld
