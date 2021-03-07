@@ -1,10 +1,9 @@
-# knowledgeGraph
+# Enterprise Knowledge Graph (EKG)
 This repo aims to document how to build from scratch knowledge graph (KG) using as much as 
 possible open technologies (open standard - open source - open data) that is agnostic (domain independent) and could be built on top of present enterprise technology an incremenal and impactless way.
 
 The project is inspired by [Google Knowledge Graph](https://www.searchenginejournal.com/google-knowledge-graph/369484/)
 and also [Wolfran Alpha](https://www.wolframalpha.com/tour/)
-
 
 ## On boarding steps
 

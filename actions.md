@@ -27,6 +27,6 @@
 
 * json 
 
-* json (with schema)
+* [json with schema](https://json-schema.org/)
 
-* json-ld
+* [json-ld](https://json-ld.org/)
